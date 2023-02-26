@@ -176,6 +176,7 @@ function App() {
               display: "block",
               flexGrow: 1,
               minWidth: "400px",
+              maxWidth: "400px",
               width: "400px",
               height: "400px",
             }}
